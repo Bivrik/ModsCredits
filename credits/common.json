@@ -1,0 +1,34 @@
+{
+  "categories": {
+    "boosters": [
+      {
+        "name": "Halil Han",
+        "annotation": "First booster!"
+      }
+    ],
+    "special_thanks": [
+      {
+        "name": "Dexpit"
+      },
+      {
+        "name": "Starfirexx"
+      },
+      {
+        "name": "VaporeonScripts",
+        "annotation": "Helped a lot at the very start"
+      },
+      {
+        "name": "Furglitch",
+        "annotation": "100th comment on CurseForge"
+      },
+      {
+        "name": "Fyoncle",
+        "annotation": "Just a chill dude"
+      },
+      {
+        "name": "{user.name}",
+        "annotation": "\u003c3"
+      }
+    ]
+  }
+}
