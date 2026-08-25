@@ -1,8 +1,15 @@
 {
   "categories": {
     "translators": [
+      {
+        "name": "Gao Xinyang",
+        "annotation": "Chinese (zh_cn)"
+      }
     ],
     "github_activists": [
+      {
+        "name": "ClairDePrince"
+      }
     ]
   }
 }
